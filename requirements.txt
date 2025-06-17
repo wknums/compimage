@@ -1,0 +1,9 @@
+# Core dependencies for composite image creator
+Pillow>=10.0.0
+
+# Streamlit web app dependencies
+streamlit>=1.28.0
+
+# Additional utilities (if needed)
+# These may be required depending on image processing needs
+numpy>=1.24.0
